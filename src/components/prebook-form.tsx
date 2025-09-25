@@ -184,7 +184,7 @@ export function PrebookForm() {
                                     <Input
                                         id="phone"
                                         type="tel"
-                                        placeholder="+1 (555) 123-4567"
+                                        placeholder="1234567890"
                                         value={phone}
                                         onChange={(e) => setPhone(e.target.value)}
                                         className="pl-10 h-12"
