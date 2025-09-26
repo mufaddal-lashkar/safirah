@@ -117,7 +117,7 @@ export function PrebookForm() {
                                 <div>
                                     <h4 className="font-semibold text-foreground">Premium Features</h4>
                                     <p className="text-sm text-muted-foreground">
-                                        3 months of premium features absolutely free
+                                        6 months of premium features absolutely free
                                     </p>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@ export function PrebookForm() {
                                 <div>
                                     <h4 className="font-semibold text-foreground">Priority Access</h4>
                                     <p className="text-sm text-muted-foreground">
-                                        Be the first to access new features and updates
+                                        Be the first to access new features and updates, along with beta version
                                     </p>
                                 </div>
                             </div>
